@@ -1,2 +1,15 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.navbar {
+  border-radius: 0;
+  font-family: "sinkin_sans400_regular", sans-serif;
+  box-shadow: 0px 1px 3px #2a2a2a;
+  background:url('footer_lodyas.png');
+}
+
+.navbar-inverse a.navbar-brand {
+  font-family: "sinkin_sans300_light", sans-serif;
+  color: #FFFFFF;
+
+}
