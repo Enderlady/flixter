@@ -8,6 +8,7 @@ gem 'devise'
 gem 'carrierwave', '>= 1.0.0.rc', '< 2.0'
 gem 'figaro'
 gem 'fog'
+gem 'mini_magick', '~> 4.3.1'
 
 gem 'rails_12factor', group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
