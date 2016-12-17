@@ -11,6 +11,7 @@ gem 'fog'
 gem 'mini_magick', '~> 4.3.1'
 gem 'carrierwave-aws'
 gem 'stripe'
+gem 'ranked-model'
 
 gem 'rails_12factor', group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
